@@ -9,4 +9,4 @@ res = num1 - num2
 if sum > 10:
     print("La suma es mayor a 10")
 else:
-    print("La suma es menor a 10")
+    print("La suma es menor o igual 10")
